@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Document created with online XML Editor http://xmlgrid.net 2017/09/12 13:25:24  -->
+   <Datagram Id="test attribute" Timestamp="test attribute">
+         <Transaction Id="test attribute" Timestamp="test attribute">
+               <Customer Id="test attribute" Language="test attribute">
+                     <Name>test string</Name>
+                     <Address Id="test attribute" Type="test attribute">
+                           <AddressLine1>test string</AddressLine1>
+                           <AddressLine2>test string</AddressLine2>
+                           <AddressLine2>test string</AddressLine2>
+                           <AddressLine2>test string</AddressLine2>
+                           <City>test string</City>
+                           <City>test string</City>
+                           <City>test string</City>
+                           <StateProvince>test string</StateProvince>
+                           <StateProvince>test string</StateProvince>
+                           <StateProvince>test string</StateProvince>
+                           <PostalCode>test string</PostalCode>
+                           <PostalCode>test string</PostalCode>
+                           <PostalCode>test string</PostalCode>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <Notes>test string</Notes>
+                           <Notes>test string</Notes>
+                           <Notes>test string</Notes>
+                     </Address>
+                     <Address Id="test attribute" Type="test attribute">
+                           <AddressLine1>test string</AddressLine1>
+                           <AddressLine2>test string</AddressLine2>
+                           <AddressLine2>test string</AddressLine2>
+                           <AddressLine2>test string</AddressLine2>
+                           <City>test string</City>
+                           <City>test string</City>
+                           <City>test string</City>
+                           <StateProvince>test string</StateProvince>
+                           <StateProvince>test string</StateProvince>
+                           <StateProvince>test string</StateProvince>
+                           <PostalCode>test string</PostalCode>
+                           <PostalCode>test string</PostalCode>
+                           <PostalCode>test string</PostalCode>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <Notes>test string</Notes>
+                           <Notes>test string</Notes>
+                           <Notes>test string</Notes>
+                     </Address>
+                     <Address Id="test attribute" Type="test attribute">
+                           <AddressLine1>test string</AddressLine1>
+                           <AddressLine2>test string</AddressLine2>
+                           <AddressLine2>test string</AddressLine2>
+                           <AddressLine2>test string</AddressLine2>
+                           <City>test string</City>
+                           <City>test string</City>
+                           <City>test string</City>
+                           <StateProvince>test string</StateProvince>
+                           <StateProvince>test string</StateProvince>
+                           <StateProvince>test string</StateProvince>
+                           <PostalCode>test string</PostalCode>
+                           <PostalCode>test string</PostalCode>
+                           <PostalCode>test string</PostalCode>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <MobileTelephone>test string</MobileTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <AlternateTelephone>test string</AlternateTelephone>
+                           <Notes>test string</Notes>
+                           <Notes>test string</Notes>
+                           <Notes>test string</Notes>
+                     </Address>
+                     <Notes>test string</Notes>
+                     <Notes>test string</Notes>
+                     <Notes>test string</Notes>
+               </Customer>
+               <Order OrderingStore="test attribute" ProducingStore="test attribute" ReadyTime="test attribute">
+                     <Assembly SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                     </Assembly>
+                     <Assembly SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                     </Assembly>
+                     <Assembly SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                           <Item>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Component SKU="test attribute" Description="test attribute" Quantity="test attribute" UnitPrice="test attribute" Taxable="test attribute">test string</Component>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                                 <Notes>test string</Notes>
+                           </Item>
+                     </Assembly>
+                     <Notes>test string</Notes>
+                     <Notes>test string</Notes>
+                     <Notes>test string</Notes>
+               </Order>
+               <Payment>
+                     <PurchaseTotal Amount="test attribute">test string</PurchaseTotal>
+                     <SalesTax Amount="test attribute" Rate="test attribute" Jurisdiction="test attribute">test string</SalesTax>
+                     <SalesTax Amount="test attribute" Rate="test attribute" Jurisdiction="test attribute">test string</SalesTax>
+                     <SalesTax Amount="test attribute" Rate="test attribute" Jurisdiction="test attribute">test string</SalesTax>
+                     <VAT Amount="test attribute" Rate="test attribute" Jurisdiction="test attribute">test string</VAT>
+                     <VAT Amount="test attribute" Rate="test attribute" Jurisdiction="test attribute">test string</VAT>
+                     <VAT Amount="test attribute" Rate="test attribute" Jurisdiction="test attribute">test string</VAT>
+                     <Prepayment Amount="test attribute" DatePaid="test attribute" TransactionId="test attribute" AuthorizationCode="test attribute">test string</Prepayment>
+                     <Prepayment Amount="test attribute" DatePaid="test attribute" TransactionId="test attribute" AuthorizationCode="test attribute">test string</Prepayment>
+                     <Prepayment Amount="test attribute" DatePaid="test attribute" TransactionId="test attribute" AuthorizationCode="test attribute">test string</Prepayment>
+                     <PaymentDue Amount="test attribute" DueDate="test attribute">test string</PaymentDue>
+                     <Notes>test string</Notes>
+                     <Notes>test string</Notes>
+                     <Notes>test string</Notes>
+               </Payment>
+         </Transaction>
+   </Datagram>
+ 

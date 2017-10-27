@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="368" Width="553">
+    <Grid Margin="0,0,0,-3">
+        <ListBox
+            Name="wordSelectionList"
+            HorizontalAlignment="Left"
+            Height="224"
+            Margin="25,28,0,0"
+            VerticalAlignment="Top"
+            Width="100"
+            RenderTransformOrigin="0.482,0.465"/>
+        <Label Content="Word List" HorizontalAlignment="Left" Margin="25,2,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Results" HorizontalAlignment="Left" Margin="153,2,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.008,0.107" Width="120"/>
+        <Button
+            Content="Select"
+            HorizontalAlignment="Left"
+            Margin="438,275,0,0"
+            VerticalAlignment="Top"
+            Width="75"
+            Click="Button_Click"/>
+        <Label Content="Selection Criteria" HorizontalAlignment="Left" Margin="25,257,0,0" VerticalAlignment="Top" Width="100"/>
+        <RadioButton 
+            Name="count"
+            Content="Show Count and Ranking"
+            IsChecked="True"
+            GroupName="SelectionType"
+            HorizontalAlignment="Left"
+            Margin="25,285,0,0"
+            VerticalAlignment="Top"/>
+        <RadioButton
+            Name="references"
+            Content="Show References" 
+            GroupName="SelectionType"
+            HorizontalAlignment="Left"
+            Margin="25,305,0,0" VerticalAlignment="Top"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" 
+                 Height="100" 
+                 Width="500">
+        <TextBlock
+            Name="resultsBox"
+            HorizontalAlignment="Left"
+            Margin="153,30,0,0"
+            TextWrapping="Wrap"
+            VerticalAlignment="Top"
+            Height="222"
+            Width="360"/>
+        </ScrollViewer>
+    </Grid>
+</Window>

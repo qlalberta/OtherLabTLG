@@ -1,0 +1,4 @@
+1 kilobyte = 1024 bytes
+1 megabyte = 1048576 bytes
+1 gigabyte = 1073741824 bytes
+1 terabyte = 1099511627776 bytes

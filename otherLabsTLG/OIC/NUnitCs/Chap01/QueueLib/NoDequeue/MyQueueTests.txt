@@ -1,0 +1,32 @@
+MyQueue tests
+
+Group 1: Tests with no wraparound.
+
+1. Create a queue of capacity 3 and verify Count is 0. 
+(All subsequent tests will also create a queue of capacity 3.)
+
+2. Enqueue a number and verify that Count is 1.
+
+3. Enqueue a number, dequeue it, and verify that Count is 0.
+
+4. Enqueue a number, remember it, dequeue a number and verify that 
+the two numbers are equal.
+
+5. Enqueue three numbers, remember them, dequeue them, and verify 
+that they are correct.
+
+6. Dequeue an empty queue and verify you get an underflow exception.
+
+7. Enqueue four numbers and verify you get an overflow exception.
+
+8. Enqueue three numbers, get an array of numbers in queue and verify 
+it is correct.
+
+Group 2: Tests with wraparound
+
+9. Enqueue two numbers, dequeue them. Enqueue three numbers, 
+get an array of numbers in queue and verify it is correct.
+
+10. Enqueue two numbers, dequeue them. . Enqueue three numbers, 
+remember them, dequeue them, and verify that they are correct.
+
